@@ -1,4 +1,4 @@
-# OSVAGAIL--Ontologia
+# OSVAGAIL
 # OSVAGAIL: La Estructura Ontológica de la Coherencia
 
 ## 1. Identificación de la Obra
